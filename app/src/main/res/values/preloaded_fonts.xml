@@ -3,6 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/almendra_display</item>
         <item>@font/arizonia</item>
+        <item>@font/dancing_script</item>
         <item>@font/engagement</item>
     </array>
 </resources>
